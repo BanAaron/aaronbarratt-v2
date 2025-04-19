@@ -11,25 +11,25 @@
 
 <main>
 	<div class="center">
-		<img src={chrisWilson} alt="our lord and saviour" />
+		<img src="{chrisWilson}" alt="our lord and saviour">
 		<h3>Credit: <a href="https://www.reddit.com/user/Gunoo/">Gunoo</a></h3>
 	</div>
 </main>
 
 <style>
-	.center {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		flex-direction: column;
-		height: 98vh;
-	}
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 98vh;
+    }
 
-	h3 {
-		font-family: "Oswald", sans-serif;
-	}
+    h3 {
+        font-family: "Oswald", sans-serif;
+    }
 
-	img {
-		height: 1000px;
-	}
+    img {
+        height: 1000px;
+    }
 </style>
