@@ -2,8 +2,6 @@
 	import selfie from "$lib/assets/selfie.jpeg"
 	import GitHubLogo from "$lib/GitHubLogo.svelte"
 	import LinkedinLogo from "$lib/LinkedinLogo.svelte"
-	import TwitterLogo from "$lib/TwitterLogo.svelte"
-	import InstagramLogo from "$lib/InstagramLogo.svelte"
 </script>
 
 <div
@@ -30,12 +28,6 @@
 			</a>
 			<a href="https://www.linkedin.com/in/aaron-barratt/" target="_blank">
 				<LinkedinLogo />
-			</a>
-			<a href="https://twitter.com/aarontbarratt" target="_blank">
-				<TwitterLogo />
-			</a>
-			<a href="https://www.instagram.com/aarontbarratt" target="_blank">
-				<InstagramLogo />
 			</a>
 		</div>
 		<ul class="hidden flex-row justify-evenly gap-1.5 md:flex">
